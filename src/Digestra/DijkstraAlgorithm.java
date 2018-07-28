@@ -122,6 +122,7 @@ public class DijkstraAlgorithm {
             int i;
 
             int j;
+
             System.out.print("enter the row that you want to change : ");
             i = scanner.nextInt();
             System.out.print("enter the column that you want to change : ");
