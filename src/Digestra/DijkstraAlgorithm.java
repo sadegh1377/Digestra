@@ -120,6 +120,7 @@ public class DijkstraAlgorithm {
         char accept2 = accept1.charAt(0);
         while (accept2 == 'y') {
             int i;
+
             int j;
             System.out.print("enter the row that you want to change : ");
             i = scanner.nextInt();
